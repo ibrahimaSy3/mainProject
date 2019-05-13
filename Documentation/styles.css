@@ -1,0 +1,37 @@
+.background{
+    background-color: blue;
+}
+
+.undertilte{
+    color: aqua;
+    text-decoration: underline;
+    border:thin solid red;
+    width: 50%;
+    height: 50px;
+    box-shadow : 3px 3px  3px black;
+}
+
+.coucou {
+    color: blue;
+    text-decoration : lightskyblue;
+    border:thin solid blue;
+}
+Londres {
+    color: chartreuse;
+    text-decoration: darkgreen;
+    border :thin solid blueviolet;
+    }  title {
+        color: aliceblue;
+
+       h1 {color: aqua;
+
+       }
+
+       h2 {color:rebeccapurple;
+       }
+
+    p { color: rgba(250, 2, 8, 0.31);
+     }
+
+    body {background: beige;
+    }

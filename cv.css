@@ -1,0 +1,29 @@
+background {
+    background-color: blue;
+}
+
+.undertilte {
+    color: aqua;
+    text-decoration: underline;
+    border: thin solid red;
+    width: 50%;
+    height: 50px;
+    box-shadow: 3px 3px 3px black;
+}
+
+.Experiences {
+    color: blue;
+    text-decoration: lightskyblue;
+    border: thin solid blue;
+}
+
+developpeur web {
+    color: chartreuse;
+    text-decoration: darkgreen;
+    border: thin solid blueviolet;
+}
+
+
+.title {
+    color: aliceblue;
+}
