@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b791cfbf-265f-4dae-9239-c188e44cfc0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/Fonctions .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Francais/dictée1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Francais/dictée1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Fonctions .md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/Fonctions .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/Flexbox.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/Flexbox.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/Github.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/Github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/IDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/IDE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/css.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/css.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration/cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/documentation/html.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Programmation/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration/cv.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Intégration/index.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,41 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Francais/dictée1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Documentation/Fonctions .md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,14 +42,14 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Documentation/Fonctions .md" />
         <option value="$PROJECT_DIR$/Francais/dictée1.md" />
+        <option value="$PROJECT_DIR$/dictée1.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
     <option name="y" value="23" />
-    <option name="width" value="1417" />
-    <option name="height" value="791" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,28 +57,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="462c0819:PsiDirectoryNode" />
-              <item name="Documentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject" type="462c0819:PsiDirectoryNode" />
-              <item name="Francais" type="462c0819:PsiDirectoryNode" />
+              <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainProject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +84,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Intégration" />
+      <recent name="$PROJECT_DIR$/Documentations/documentation" />
+      <recent name="$PROJECT_DIR$/Documentation" />
+      <recent name="$PROJECT_DIR$/Documentation/documentation" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,6 +117,8 @@
       <option name="presentableId" value="Default" />
       <updated>1557740653701</updated>
       <workItem from="1557740654834" duration="4742000" />
+      <workItem from="1557847541135" duration="2634000" />
+      <workItem from="1558104356548" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1557740885805</created>
@@ -165,19 +138,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4742000" />
+    <option name="totallyTimeSpent" value="8141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="23" width="1417" height="791" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24594785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32904148" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -185,6 +153,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.45380434" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -207,11 +179,11 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/Fonctions .md">
+    <entry file="file://$PROJECT_DIR$/documentation/Fonctions .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="45">
@@ -220,6 +192,16 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictée1.md" />
+    <entry file="file://$PROJECT_DIR$/Intégration/cv.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmation/Index.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Francais/dictée1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -230,6 +212,32 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/html.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/Flexbox.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intégration/cv.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
