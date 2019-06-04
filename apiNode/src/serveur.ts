@@ -26,15 +26,29 @@ app.get('/', async (req, res) => {
 
     newHostel.forEach((value) => {
         hostel.push(value.data() as Hostels);
-    })
+    });
 
     res.send(hostel);
 
 });
 
 
+app.post('/post',async (req, res)=> {
+
+    const hostels = req.body;
+    const newHostel = await ref.add(hostels);
+
+    res.send('ok').status(201);
+
+});
+
+app.delete ('/',async(req,res)=> {
+    const deletedoc
+})
+});
 
 
-app.listen(4000, function () {
+
+app.listen(4000,  () => {
     console.log('Example app listening on port 4000!')
 });
