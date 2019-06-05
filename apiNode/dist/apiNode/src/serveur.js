@@ -28,11 +28,6 @@ app.get('/', (req, res) => __awaiter(this, void 0, void 0, function* () {
     });
     res.send(hostel);
 }));
-app.post('/post', (req, res) => __awaiter(this, void 0, void 0, function* () {
-    const hostels = req.body;
-    const newHostel = yield ref.add(hostels);
-    res.send('ok').status(201);
-}));
 app.listen(4000, () => {
     console.log('Example app listening on port 4000!');
 });

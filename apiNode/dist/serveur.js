@@ -33,10 +33,20 @@ app.post('/post', (req, res) => __awaiter(this, void 0, void 0, function* () {
     const newHostel = yield ref.add(hostels);
     res.send('ok').status(201);
 }));
-app.delete('/', (req, res) => __awaiter(this, void 0, void 0, function* () {
-    const deletedoc;
+app.delete('/delete', (req, res) => __awaiter(this, void 0, void 0, function* () {
+    const removeHostel = yield ref.doc('vSYmaiLWwVSrvkWJlOT2').delete();
+    res.send('deleted').status(201);
 }));
-;
+app.put('/put', (req, res) => __awaiter(this, void 0, void 0, function* () {
+    const update = req.body;
+    const updateHostel = yield ref.doc('qGN9E5nRM2hNP2AVOtlQ').update(update);
+    res.send('put').status(201);
+}));
+app.patch('/patch', (req, res) => __awaiter(this, void 0, void 0, function* () {
+    const patch = req.body;
+    const patchHostel = yield ref.doc('qGN9E5nRM2hNP2AVOtlQ').update(patch);
+    res.send('patch').status(201);
+}));
 app.listen(4000, () => {
     console.log('Example app listening on port 4000!');
 });
