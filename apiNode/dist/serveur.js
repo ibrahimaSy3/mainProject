@@ -12,6 +12,7 @@ const admin = require("firebase-admin");
 const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();
+const cors = require('cors');
 const serviceAccount = require("C:\\Users\\WR1\\WebstormProjects\\mainProject\\apiNode\\src\\cle.json");
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
@@ -19,6 +20,7 @@ admin.initializeApp({
 });
 const db = admin.firestore();
 app.use(bodyParser());
+app.use(cors());
 const ref = db.collection('hostels');
 app.get('/', (req, res) => __awaiter(this, void 0, void 0, function* () {
     const newHostel = yield ref.get();
@@ -33,19 +35,22 @@ app.post('/post', (req, res) => __awaiter(this, void 0, void 0, function* () {
     const newHostel = yield ref.add(hostels);
     res.send('ok').status(201);
 }));
-app.delete('/delete', (req, res) => __awaiter(this, void 0, void 0, function* () {
-    const removeHostel = yield ref.doc('vSYmaiLWwVSrvkWJlOT2').delete();
+app.delete('/delete/:id', (req, res) => __awaiter(this, void 0, void 0, function* () {
+    const deleted = req.body;
+    const removeHostel = yield ref.doc(req.params.id).delete(deleted);
     res.send('deleted').status(201);
 }));
-app.put('/put', (req, res) => __awaiter(this, void 0, void 0, function* () {
+app.put('/put/:id', (req, res) => __awaiter(this, void 0, void 0, function* () {
     const update = req.body;
-    const updateHostel = yield ref.doc('qGN9E5nRM2hNP2AVOtlQ').update(update);
-    res.send('put').status(201);
+    console.log(update);
+    const updateHostel = yield ref.doc(req.params.id).update(update);
+    res.send(updateHostel).status(201);
 }));
-app.patch('/patch', (req, res) => __awaiter(this, void 0, void 0, function* () {
+app.patch('/patch/:id', (req, res) => __awaiter(this, void 0, void 0, function* () {
     const patch = req.body;
-    const patchHostel = yield ref.doc('qGN9E5nRM2hNP2AVOtlQ').update(patch);
-    res.send('patch').status(201);
+    console.log(patch);
+    const patchHostel = yield ref.doc(req.params.id).update(patch);
+    res.send(patchHostel).status(201);
 }));
 app.listen(4000, () => {
     console.log('Example app listening on port 4000!');

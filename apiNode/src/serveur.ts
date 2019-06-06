@@ -4,6 +4,7 @@ import * as bodyParser from 'body-parser';
 import {Hostels} from './model/hostels';
 
 const app = express();
+const cors = require('cors');
 
 
 const serviceAccount = require("C:\\Users\\WR1\\WebstormProjects\\mainProject\\apiNode\\src\\cle.json");
@@ -16,6 +17,7 @@ admin.initializeApp({
 const db = admin.firestore();
 
 app.use(bodyParser());
+app.use(cors());
 
 
 const ref = db.collection('hostels');
@@ -41,8 +43,9 @@ app.post('/post',async (req, res) => {
     res.send('ok').status(201);
 });
 
-app.delete('/delete',async (req, res) => {
-    const removeHostel = await ref.doc('vSYmaiLWwVSrvkWJlOT2').delete();
+app.delete('/delete/:id',async (req, res) => {
+    const deleted= req.body;
+    const removeHostel = await ref.doc(req.params.id).delete(deleted);
     res.send('deleted').status(201);
 
 });
@@ -52,15 +55,16 @@ app.put ('/put/:id',async (req, res) => {
     const update = req.body;
     console.log(update)
     const updateHostel = await ref.doc(req.params.id).update(update);
-    res.send ('put').status(201);
+    res.send (updateHostel).status(201);
 
 });
 
 
-app.patch ('/patch',async (req, res) => {
+app.patch ('/patch/:id',async (req, res) => {
     const patch = req.body;
-    const patchHostel = await ref.doc('qGN9E5nRM2hNP2AVOtlQ').update(patch);
-    res.send ('patch').status(201);
+    console.log(patch)
+    const patchHostel = await ref.doc(req.params.id).update(patch);
+    res.send (patchHostel).status(201);
 
 });
 
