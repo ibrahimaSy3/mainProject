@@ -3,1279 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b791cfbf-265f-4dae-9239-c188e44cfc0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/dist/serveur.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/dist/serveur.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/dist/serveur.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/dist/serveur.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/mime" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/mime.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/tsc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/tsc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/tsserver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/.bin/tsserver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/bytes/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/bytes/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/bytes/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/bytes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/bytes/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/.coveralls.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/src/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/src/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/src/inspector-log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/debug/src/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/lib/browser/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/lib/compat/callsite-tostring.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/lib/compat/event-listener-count.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/lib/compat/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/depd/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/etag/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/etag/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/etag/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/etag/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/etag/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/fresh/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/fresh/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/fresh/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/fresh/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/fresh/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/forInRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/forOwn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/forOwnRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/fromPairs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/functionsIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/getOr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/groupBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/gt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/gte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/has.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/hasIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/head.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/identical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/identity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/inRange.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/includes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/includesFrom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/indexBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/indexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/indexOfFrom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/initial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/intersection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/intersectionBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/intersectionWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invertBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invertObj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invoke.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invokeArgs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invokeArgsMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/invokeMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isArguments.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isArrayBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isArrayLike.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isArrayLikeObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isBoolean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isDate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isEqual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isEqualWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isFinite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isMatch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isMatchWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isNaN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isNative.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isNil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isNull.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isObjectLike.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isPlainObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isRegExp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isSafeInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isSymbol.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isTypedArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isUndefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isWeakMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/isWeakSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/iteratee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/join.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/juxt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/kebabCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/keyBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/keysIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/last.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lastIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lastIndexOfFrom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lowerCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lowerFirst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/lte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mapKeys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mapValues.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/matches.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/matchesProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/math.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/max.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/maxBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/meanBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/memoize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/merge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mergeAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mergeAllWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mergeWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/method.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/methodOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/minBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/mixin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/multiply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/nAry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/negate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/next.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/noop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/now.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/nth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/nthArg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/object.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/omit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/omitAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/omitBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/once.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/orderBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/over.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/overArgs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/overEvery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/overSome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/padChars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/padCharsEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/padCharsStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/padEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/padStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/parseInt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/partial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/partialRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/partition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pathEq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pathOr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/paths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pickAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pickBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pipe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/placeholder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/plant.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pluck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/prop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/propEq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/propOr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/propertyOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/props.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pull.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pullAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pullAllBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pullAllWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/pullAt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/random.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/range.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/rangeRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/rangeStep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/rangeStepRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/rearg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/reduce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/reduceRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/reject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/remove.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/repeat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/replace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/rest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/restFrom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/result.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/reverse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/round.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sampleSize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/seq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/setWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/shuffle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/size.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/slice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/snakeCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/some.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedIndexBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedLastIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedLastIndexBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedLastIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedUniq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sortedUniqBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/split.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/spread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/spreadFrom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/startCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/startsWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/stubArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/stubFalse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/stubObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/stubString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/stubTrue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/subtract.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/sumBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/symmetricDifference.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/symmetricDifferenceBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/symmetricDifferenceWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/tail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/take.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/takeLast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/takeLastWhile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/takeRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/takeRightWhile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/takeWhile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/tap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/templateSettings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/throttle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/thru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/times.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toFinite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toIterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toJSON.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toLower.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toPairs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toPairsIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toPlainObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toSafeInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/toUpper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trimChars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trimCharsEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trimCharsStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trimEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/trimStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/truncate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unapply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unescape.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/union.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unionBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unionWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/uniq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/uniqBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/uniqWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/uniqueId.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unnest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unzip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/unzipWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/updateWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/upperCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/upperFirst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/useWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/value.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/valueOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/values.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/valuesIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/where.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/whereEq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/without.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/words.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrapperAt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrapperChain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrapperLodash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrapperReverse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/wrapperValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/xor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/xorBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/xorWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zipAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zipObj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zipObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zipObjectDeep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fp/zipWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/fromPairs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/function.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/functionsIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/groupBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/gt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/gte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/has.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/hasIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/head.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/identity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/inRange.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/includes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/indexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/initial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/intersection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/intersectionBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/intersectionWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/invert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/invertBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/invoke.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/invokeMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isArguments.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isArrayBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isArrayLike.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isArrayLikeObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isBoolean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isBuffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isDate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isEmpty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isEqual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isEqualWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isError.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isFinite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isMatch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isMatchWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isNaN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isNative.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isNil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isNull.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isObjectLike.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isPlainObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isRegExp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isSafeInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isSymbol.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isTypedArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isUndefined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isWeakMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/isWeakSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/iteratee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/join.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/kebabCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/keyBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/keysIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/last.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lastIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lodash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lodash.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lowerCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lowerFirst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/lte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/mapKeys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/mapValues.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/matches.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/matchesProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/math.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/max.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/maxBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/mean.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/meanBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/memoize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/merge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/mergeWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/method.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/methodOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/minBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/mixin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/multiply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/negate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/next.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/noop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/now.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/nth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/nthArg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/object.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/omit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/omitBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/once.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/orderBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/over.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/overArgs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/overEvery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/overSome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/padEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/padStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/parseInt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/partial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/partialRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/partition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pickBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/plant.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/property.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/propertyOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pull.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pullAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pullAllBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pullAllWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/pullAt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/random.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/range.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/rangeRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/rearg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/reduce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/reduceRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/reject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/remove.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/repeat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/replace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/rest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/result.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/reverse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/round.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sample.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sampleSize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/seq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/set.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/setWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/shuffle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/size.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/slice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/snakeCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/some.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedIndexBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedLastIndex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedLastIndexBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedLastIndexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedUniq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sortedUniqBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/split.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/spread.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/startCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/startsWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/stubArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/stubFalse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/stubObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/stubString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/stubTrue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/subtract.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/sumBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/tail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/take.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/takeRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/takeRightWhile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/takeWhile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/tap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/templateSettings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/throttle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/thru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/times.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toFinite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toIterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toJSON.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toLength.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toLower.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toNumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toPairs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toPairsIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toPlainObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toSafeInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/toUpper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/trim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/trimEnd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/trimStart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/truncate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unescape.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/union.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unionBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unionWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/uniq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/uniqBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/uniqWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/uniqueId.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unzip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/unzipWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/updateWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/upperCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/upperFirst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/value.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/valueOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/values.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/valuesIn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/without.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/words.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrapperAt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrapperChain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrapperLodash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrapperReverse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/wrapperValue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/xor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/xorBy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/xorWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/zip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/zipObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/zipObjectDeep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lodash/zipWith.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/dist/long.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/dist/long.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/long/src/long.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lru-cache/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lru-cache/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lru-cache/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/lru-cache/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/node_modules/pify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/node_modules/pify/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/node_modules/pify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/node_modules/pify/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/make-dir/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/model/model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/mime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/src/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/src/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mime/types.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mimic-fn/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mimic-fn/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mimic-fn/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mimic-fn/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/mimic-fn/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/ms/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/ms/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/ms/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/ms/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/lib/index.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/lib/index.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-fetch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/forge.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/forge.all.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/forge.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/forge.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/prime.worker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/dist/prime.worker.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/flash/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/flash/swf/SocketPool.swf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/aes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/aesCipherSuites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/asn1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/baseN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/cipher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/cipherModes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/des.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/ed25519.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/forge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/hmac.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/http.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/index.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/jsbn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/kem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/md.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/md.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/md5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/mgf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/mgf1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/oids.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pbe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pbkdf2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pkcs1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pkcs12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pkcs7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pkcs7asn1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pki.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/prime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/prime.worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/prng.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/pss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/random.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/rc2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/rsa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/sha1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/sha256.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/sha512.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/socket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/ssh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/task.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/tls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/tlssocket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/x509.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/lib/xhr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/node-forge/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/once/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/once/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/once/once.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/once/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/onetime/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/onetime/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/onetime/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/onetime/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/onetime/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pify/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pify/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/process-nextick-args/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/process-nextick-args/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/process-nextick-args/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/process-nextick-args/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/bin/pbjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/bin/pbts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/bin/pbjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/bin/pbts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/lib/tsd-jsdoc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/lib/tsd-jsdoc/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/lib/tsd-jsdoc/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/lib/tsd-jsdoc/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/lib/tsd-jsdoc/publish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/os-tmpdir/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/os-tmpdir/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/os-tmpdir/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/tmp/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/tmp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/node_modules/tmp/lib/tmp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/package.standalone.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/pbjs.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/pbjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/pbts.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/pbts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/json-module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/json.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/proto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/proto2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/proto3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/static-module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/targets/static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/wrappers/amd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/wrappers/closure.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/wrappers/commonjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/wrappers/default.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/cli/wrappers/es6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/light/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/light/protobuf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/light/protobuf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/light/protobuf.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/light/protobuf.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/minimal/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/minimal/protobuf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/minimal/protobuf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/minimal/protobuf.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/minimal/protobuf.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/protobuf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/protobuf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/protobuf.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/dist/protobuf.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/debug/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/debug/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/descriptor/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/descriptor/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/descriptor/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/ext/descriptor/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/api/annotations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/api/annotations.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/api/http.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/api/http.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/api.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/api.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/descriptor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/descriptor.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/source_context.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/source_context.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/type.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/google/protobuf/type.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/light.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/light.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/minimal.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/minimal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/assert.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/async_hooks.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/base.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/buffer.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/child_process.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/cluster.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/console.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/constants.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/crypto.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/dgram.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/dns.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/domain.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/events.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/fs.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/globals.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/http.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/http2.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/https.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/inspector.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/module.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/net.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/os.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/path.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/perf_hooks.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/process.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/punycode.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/querystring.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/readline.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/repl.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/stream.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/string_decoder.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/timers.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/tls.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/trace_events.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/ts3.2/globals.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/ts3.2/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/ts3.2/util.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/tty.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/url.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/util.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/v8.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/vm.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/worker_threads.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/node_modules/@types/node/zlib.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/scripts/changelog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/scripts/postinstall.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/converter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/decoder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/encoder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/enum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/field.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/index-light.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/index-minimal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/mapfield.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/message.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/method.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/namespace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/object.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/oneof.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/reader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/reader_buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/root.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/roots.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/rpc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/rpc/service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/tokenize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/typescript.jsdoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/util/longbits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/util/minimal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/verifier.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/wrappers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/writer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/src/writer_buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/protobufjs/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/test-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pump/test-node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/pumpify/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/dist/qs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/lib/formats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/lib/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/lib/stringify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/test/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/test/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/test/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/test/stringify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/qs/test/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/readable-stream/writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/node-modules-paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/node-modules-paths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/lib/sync.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/node-modules-paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/node-modules-paths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/resolver.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/resolver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/resolver_sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/node_modules/resolve/test/resolver_sync.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/isarray/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/readable-stream/writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/string_decoder/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/string_decoder/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/string_decoder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/string_decoder/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/through2/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/through2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/through2/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/node_modules/through2/through2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/retry-request/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/semver/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/node_modules/ms/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/node_modules/ms/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/node_modules/ms/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/node_modules/ms/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/send/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/signal-exit/signals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/example/snakeize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/snakeize/test/snakeize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/build/src/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/build/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/build/src/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/split-array-stream/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-events/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-events/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-events/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-events/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stream-shift/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/streamsearch/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/streamsearch/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/streamsearch/lib/sbmh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/streamsearch/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/string_decoder/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/string_decoder/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/string_decoder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/string_decoder/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/string_decoder/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stubs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stubs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stubs/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/stubs/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/build/src/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/build/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/build/src/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/teeny-request/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/.nyc_output/28dcebf0-9c4a-47bb-900e-93fcef37bbe2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/errors-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/errors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/experimentalWarning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/async_iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/buffer_list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/end-of-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/pipeline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/state.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/readable-stream/readable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/string_decoder/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/string_decoder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/node_modules/string_decoder/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/through2/through2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/CopyrightNotice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/docs/generator.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/tslib.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/tslib.es6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/tslib.es6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/tslib.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/tslib/tslib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/example/tarray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/test/server/undef_globals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typedarray/test/tarray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/AUTHORS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/CopyrightNotice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/ThirdPartyNoticeText.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/bin/tsc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/bin/tsserver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/cancellationToken.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/protocol.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/tsc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/tsserver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typesMap.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typescript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typescriptServices.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typescriptServices.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/watchGuard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/typescript/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/unique-string/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/unique-string/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/unique-string/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/unique-string/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/util-deprecate/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/AUTHORS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/README_js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/bin/uuid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/bytesToUuid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/md5-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/md5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/rng-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/rng.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/sha1-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/sha1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/lib/v35.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/v1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/v3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/v4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/uuid/v5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/vary/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/vary/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/vary/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/vary/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/vary/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/.jshintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/find.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/find.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/finditsynctest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/findittest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/fstream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/install_test_deps.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/lsr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/comparison/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/custom_fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/foo/a/b/c/w" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/foo/a/b/z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/foo/a/y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/foo/x" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/nested-symlink/found-me" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/symlinks/dir1/file1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/symlinks/dir2/file2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/dir/symlinks/file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/emitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/endearly.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/filter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/ignore-during.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/ignore-first.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/ignore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/max_depth.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/nested-symlink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/no_recurse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/nofailemptydir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/pauseresume.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/symlink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/test/sync.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/walkdir.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/walkdir/walkdir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/draft75.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/draft76.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/headers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/hybi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/hybi/frame.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/hybi/message.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/proxy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/driver/stream_reader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/http_parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/lib/websocket/streams.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-driver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/cell.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/functor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/pledge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/pipeline/ring_buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/lib/websocket_extensions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/websocket-extensions/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/wrappy/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/wrappy/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/wrappy/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/wrappy/wrappy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/write-file-atomic/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/write-file-atomic/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/write-file-atomic/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/write-file-atomic/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/write-file-atomic/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xdg-basedir/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xdg-basedir/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xdg-basedir/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xdg-basedir/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/lib/XMLHttpRequest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xmlhttprequest/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/.jshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/immutable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/mutable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/xtend/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/yallist/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/yallist/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/yallist/iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/yallist/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/node_modules/yallist/yallist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiNode/src/serveur.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apiNode/src/serveur.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -1291,13 +19,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="557">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
+                <element signature="e#896#1079#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apiNode/src/serveur.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1305,15 +46,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="220">
               <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
@@ -1322,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
@@ -1369,8 +108,9 @@
         <option value="$PROJECT_DIR$/apiNode/package.json" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/model/model.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.html" />
+        <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" />
       </list>
     </option>
   </component>
@@ -1385,13 +125,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="mainProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="apiNode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="cvPug" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mainProject" type="b2602c69:ProjectViewProjectNode" />
@@ -1432,6 +187,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1474,16 +230,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ng" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/Frontend/myAngular/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="ng" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="node" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/apiNode/package.json" />
       <command value="run" />
@@ -1499,6 +245,16 @@
       <command value="run" />
       <scripts>
         <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/Frontend/myAngular/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -1526,11 +282,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
-        <item itemvalue="npm.ng" />
-        <item itemvalue="npm.tsconfig" />
         <item itemvalue="npm.node" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.watch (1)" />
+        <item itemvalue="npm.tsconfig" />
+        <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
   </component>
@@ -1562,7 +318,8 @@
       <workItem from="1559827259858" duration="589000" />
       <workItem from="1559828765688" duration="577000" />
       <workItem from="1559829761510" duration="306000" />
-      <workItem from="1559830224421" duration="9389000" />
+      <workItem from="1559830224421" duration="14189000" />
+      <workItem from="1559896224871" duration="11132000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1557740885805</created>
@@ -1606,11 +363,25 @@
       <option name="project" value="LOCAL" />
       <updated>1559636759888</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add angular">
+      <created>1559841650903</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559841650903</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add angular folder">
+      <created>1559841716971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559841716971</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116248000" />
+    <option name="totallyTimeSpent" value="132180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1625,10 +396,10 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62354654" visible="true" weight="0.16859852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.622093" visible="true" weight="0.12434141" />
       <window_info id="Structure" order="1" sideWeight="0.36760125" side_tool="true" weight="0.1369863" />
       <window_info id="Favorites" order="2" sideWeight="0.36760125" side_tool="true" weight="0.1369863" />
-      <window_info id="npm" order="3" sideWeight="0.3764535" side_tool="true" visible="true" weight="0.16859852" />
+      <window_info id="npm" order="3" sideWeight="0.37790698" side_tool="true" visible="true" weight="0.12434141" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
@@ -1640,7 +411,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.337487" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="10" weight="0.3281412" />
-      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.28556594" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.28556594" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1660,7 +431,9 @@
     <MESSAGE value="rearrange all files" />
     <MESSAGE value="modifications exercises" />
     <MESSAGE value="add exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="add exercises" />
+    <MESSAGE value="add angular" />
+    <MESSAGE value="add angular folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add angular folder" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Documentation/Fonctions .md">
@@ -1802,16 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apiNode/src/serveur.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/app.component.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1829,24 +592,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts">
+    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="220">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
@@ -1858,6 +616,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiNode/src/serveur.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#896#1079#0" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -11,19 +11,57 @@ import {Observable} from "rxjs";
 })
 export class HotelListComponent implements OnInit {
 
-users : Hostels[];
-users$ : Observable<Hostels[]>;
+  users: Hostels[];
+  users$: Observable<Hostels[]>;
 
-  constructor(private http : HttpClient) { }
+  constructor(private http: HttpClient) {
+  }
 
   ngOnInit() {
     this.users$ = this.http.get<Hostels[]>('http://localhost:4000/');
 
     this.users$.pipe(
-      tap((users : Hostels[])  => this.users = users)).pipe().subscribe()
+      tap((users: Hostels[]) => this.users = users)).subscribe();
+
+
+    /*
+          this.http.post<Hostels[]>('http://localhost:4000/post', {
+            "firstname":'toto',
+            "lastname" :'tata',
+            "children": true,
+            "age" : 30,
+          })
+            .pipe()
+            .subscribe();
+    */
+
+    /*
+    return this.http.put<Hostels[]>('http://localhost:4000/put/oxSYtGI4CuoQY6rzjLwK', {
+
+        "children":'true',
+        "lastname":'toto',
+         "age":'34'
+
+    })
+      .pipe()
+      .subscribe();
+    */
+
+
+  //  return this.http.patch<Hostels[]>('http://localhost:4000/patch/oxSYtGI4CuoQY6rzjLwK', {"children": 'false',"lastname": 'toto',"age": '37').pipe().subscribe();
+
+
+
+//    return this.http.delete<Hostels[]>('http://localhost:4000/delete/oxSYtGI4CuoQY6rzjLwK').pipe().subscribe();
+
 
   }
 
+}
 
-  }
+
+
+
+
+
 
