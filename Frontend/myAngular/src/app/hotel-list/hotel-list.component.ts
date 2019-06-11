@@ -3,25 +3,39 @@ import {Hostels} from '../model/model';
 import{HttpClient} from '@angular/common/http';
 import {tap} from "rxjs/operators";
 import {Observable} from "rxjs";
+import {FormBuilder, FormGroup, Validators} from "@angular/forms";
+
+
 
 @Component({
   selector: 'app-hotel-list',
   templateUrl: './hotel-list.component.html',
   styleUrls: ['./hotel-list.component.scss']
+
 })
+
 export class HotelListComponent implements OnInit {
 
   users: Hostels[];
   users$: Observable<Hostels[]>;
+  hostelForm: FormGroup
 
-  constructor(private http: HttpClient) {
-  }
+
+  constructor(private http: HttpClient,
+              private fb: FormBuilder){}
 
   ngOnInit() {
     this.users$ = this.http.get<Hostels[]>('http://localhost:4000/');
 
+
+
     this.users$.pipe(
       tap((users: Hostels[]) => this.users = users)).subscribe();
+
+    this.hostelForm = this.fb.group({
+      firstName: ['', Validators.required],
+      lastName: [''],
+    });
 
 
     /*
@@ -57,10 +71,15 @@ export class HotelListComponent implements OnInit {
 
   }
 
+    initForm() {this.http.post<Hostels[]>('http://localhost:4000/post', { })
+    .pipe()
+    .subscribe();
+
+
+  }
+
 }
 
-  import {Component} from "@angular/core";
-  import {FormControl} from "@angular/forms";
 
 
 

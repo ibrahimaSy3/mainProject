@@ -5,6 +5,9 @@ import { HttpClientModule} from "@angular/common/http";
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HotelListComponent } from './hotel-list/hotel-list.component';
+import {ReactiveFormsModule} from "@angular/forms";
+
+
 
 @NgModule({
   declarations: [
@@ -14,7 +17,9 @@ import { HotelListComponent } from './hotel-list/hotel-list.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule,
+
 
   ],
   providers: [],
