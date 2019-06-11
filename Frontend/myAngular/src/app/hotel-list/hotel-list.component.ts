@@ -59,6 +59,9 @@ export class HotelListComponent implements OnInit {
 
 }
 
+  import {Component} from "@angular/core";
+  import {FormControl} from "@angular/forms";
+
 
 
 
