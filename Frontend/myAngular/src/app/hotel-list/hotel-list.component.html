@@ -2,4 +2,14 @@
   <li *ngFor="let hostel of users$ | async">{{ hostel | json }}</li>
 </ul>
 
-<label formControlName=""
+<form [formGroup]="hostelForm" (ngSubmit)="submitForm()">
+  <label>name
+    <input type="text" required formControlName="name" name="name">
+  </label>
+  <label> nombre de chambres
+    <input type="number" required formControlName="roomsNumber">
+  </label>
+  <button type="subscribe">envoyer</button>
+</form>
+
+

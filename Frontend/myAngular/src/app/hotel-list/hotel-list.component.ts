@@ -4,78 +4,44 @@ import{HttpClient} from '@angular/common/http';
 import {tap} from "rxjs/operators";
 import {Observable} from "rxjs";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
-
-
+import {cssScannerError} from "codelyzer/angular/styles/cssLexer";
 
 @Component({
   selector: 'app-hotel-list',
   templateUrl: './hotel-list.component.html',
   styleUrls: ['./hotel-list.component.scss']
-
 })
 
 export class HotelListComponent implements OnInit {
 
   users: Hostels[];
   users$: Observable<Hostels[]>;
-  hostelForm: FormGroup
+  hostelForm: FormGroup;
 
-
-  constructor(private http: HttpClient,
-              private fb: FormBuilder){}
+  constructor(
+    private http: HttpClient,
+    private fb: FormBuilder,
+  ){}
 
   ngOnInit() {
-    this.users$ = this.http.get<Hostels[]>('http://localhost:4000/');
-
-
-
-    this.users$.pipe(
-      tap((users: Hostels[]) => this.users = users)).subscribe();
-
-    this.hostelForm = this.fb.group({
-      firstName: ['', Validators.required],
-      lastName: [''],
-    });
-
-
-    /*
-          this.http.post<Hostels[]>('http://localhost:4000/post', {
-            "firstname":'toto',
-            "lastname" :'tata',
-            "children": true,
-            "age" : 30,
-          })
-            .pipe()
-            .subscribe();
-    */
-
-    /*
-    return this.http.put<Hostels[]>('http://localhost:4000/put/oxSYtGI4CuoQY6rzjLwK', {
-
-        "children":'true',
-        "lastname":'toto',
-         "age":'34'
-
-    })
-      .pipe()
-      .subscribe();
-    */
-
-
-  //  return this.http.patch<Hostels[]>('http://localhost:4000/patch/oxSYtGI4CuoQY6rzjLwK', {"children": 'false',"lastname": 'toto',"age": '37').pipe().subscribe();
-
-
-
-//    return this.http.delete<Hostels[]>('http://localhost:4000/delete/oxSYtGI4CuoQY6rzjLwK').pipe().subscribe();
-
-
+    this.initForm();
   }
 
-    initForm() {this.http.post<Hostels[]>('http://localhost:4000/post', { })
-    .pipe()
-    .subscribe();
-
-
+  postHostel(hostel:Hostels){
+    this.http.post('http://localhost:4000/hostels',hostel)
+      .pipe(
+        tap(x => console.log(x)),
+      )
+      .subscribe();
+  }
+  submitForm(){
+    console.log(this.hostelForm.value);
+  }
+  initForm() {
+    this.hostelForm = this.fb.group({
+      name: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],
+      roomsNumber: [0, [Validators.required]]
+    });
   }
 
 }
