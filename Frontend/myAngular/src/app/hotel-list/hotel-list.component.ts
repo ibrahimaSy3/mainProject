@@ -4,7 +4,7 @@ import{HttpClient} from '@angular/common/http';
 import {tap} from "rxjs/operators";
 import {Observable} from "rxjs";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
-import {cssScannerError} from "codelyzer/angular/styles/cssLexer";
+
 
 @Component({
   selector: 'app-hotel-list',
@@ -27,15 +27,14 @@ export class HotelListComponent implements OnInit {
     this.initForm();
   }
 
-  postHostel(hostel:Hostels){
-    this.http.post('http://localhost:4000/hostels',hostel)
+  postHostel(){
+    this.http.post('http://localhost:4000/post',this.hostelForm.value)
       .pipe(
         tap(x => console.log(x)),
       )
       .subscribe();
   }
-  submitForm(){
-    console.log(this.hostelForm.value);
+  getHostel() {
   }
   initForm() {
     this.hostelForm = this.fb.group({
