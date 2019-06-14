@@ -34,8 +34,24 @@ export class HotelListComponent implements OnInit {
       )
       .subscribe();
   }
+
+
   getHostel() {
+    this.users$ = this.http.get<Hostels[]>('http://localhost:4000');
+
+    this.users$
+      .pipe(
+        tap((users: Hostels[]) => this.users = users))
+      .subscribe();
   }
+
+  putHostel(){
+
+  }
+
+
+
+
   initForm() {
     this.hostelForm = this.fb.group({
       name: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],

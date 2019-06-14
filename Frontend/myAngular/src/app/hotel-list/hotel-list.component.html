@@ -1,6 +1,9 @@
 <ul>
   <li *ngFor="let hostel of users$ | async">{{ hostel | json }}</li>
+ <button type="button" (click)="getHostel()">get hostel</button>
 </ul>
+
+
 
 <form [formGroup]="hostelForm" (ngSubmit)="postHostel()">
   <label>name
@@ -16,4 +19,4 @@
   <button type="button" (click)="getHostel()"></button>
 </section>
 
-
+<button type="button" (click)="putHostel()"></button>
