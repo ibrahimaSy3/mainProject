@@ -3,14 +3,9 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: 'create-room',
-    loadChildren:'./create-room/create-room.module#CreateRoomModule'
-  },
+    path:'',
 
-  {
-    path: 'list-room',
-    loadChildren:'./list-room/list-room.module#CreateRoomModule#ListRoomsModule'
-  },
+  }
 ];
 
 @NgModule({
