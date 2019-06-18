@@ -8,8 +8,8 @@ const routes: Routes = [
   },
 
   {
-    path: 'list-room',
-    loadChildren:'./list-room/list-room.module#CreateRoomModule#ListRoomsModule'
+    path: 'list-rooms',
+    loadChildren:'./list-rooms/list-rooms.module#ListRoomsModule'
   },
 ];
 

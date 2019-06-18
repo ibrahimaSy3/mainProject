@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {tap} from "rxjs/operators";
+import {FormGroup} from "@angular/forms";
+import {HttpClient} from "@angular/common/http";
 
 @Component({
   selector: 'app-create-room',
@@ -8,14 +10,27 @@ import {tap} from "rxjs/operators";
 })
 export class CreateRoomComponent implements OnInit {
 
-  constructor() { }
+
+  hostelForm: FormGroup;
+
+
+  constructor(
+    private http: HttpClient,
+  ) {
+  }
 
   ngOnInit() {
   }
-  postHostel(){
-    this.http.post('http://localhost:4000/post',this.hostelForm.value)
+
+  postHostel() {
+    this.http.post('http://localhost:4000/post', this.hostelForm.value)
       .pipe(
         tap(x => console.log(x)),
       )
       .subscribe();
+  }
+
+
+
+
 }
