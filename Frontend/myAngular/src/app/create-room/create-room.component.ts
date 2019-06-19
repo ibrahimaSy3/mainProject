@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {tap} from "rxjs/operators";
-import {FormGroup} from "@angular/forms";
+import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 import {HttpClient} from "@angular/common/http";
 
 @Component({
@@ -16,10 +16,11 @@ export class CreateRoomComponent implements OnInit {
 
   constructor(
     private http: HttpClient,
-  ) {
-  }
+    private fb: FormBuilder
+  ) { }
 
   ngOnInit() {
+    this.initForm();
   }
 
   postHostel() {
@@ -31,6 +32,12 @@ export class CreateRoomComponent implements OnInit {
   }
 
 
+  initForm() {
+    this.hostelForm = this.fb.group({
+      name: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],
+      roomsNumber: [0, [Validators.required]]
+    });
+  }
 
 
 }

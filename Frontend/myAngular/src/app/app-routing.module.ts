@@ -3,13 +3,13 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: 'create-room',
-    loadChildren:'./create-room/create-room.module#CreateRoomModule'
+    path: 'hostels-rooms',
+    loadChildren:'./hostels-rooms/hostels-rooms.module#CreateRoomModule'
   },
 
   {
-    path: 'list-rooms',
-    loadChildren:'./list-rooms/list-rooms.module#ListRoomsModule'
+    path: 'hostels-rooms',
+    loadChildren:'./hostels-rooms/hostels-rooms.module#ListRoomsModule'
   },
 ];
 

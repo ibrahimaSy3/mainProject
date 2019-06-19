@@ -12,4 +12,7 @@ export class ListRoomsComponent implements OnInit {
   ngOnInit() {
   }
 
+  getHostel() {
+
+  }
 }

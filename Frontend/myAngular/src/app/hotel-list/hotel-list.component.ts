@@ -24,7 +24,6 @@ export class HotelListComponent implements OnInit {
   ){}
 
   ngOnInit() {
-    this.initForm();
   }
 
   postHostel(){
@@ -52,12 +51,6 @@ export class HotelListComponent implements OnInit {
 
 
 
-  initForm() {
-    this.hostelForm = this.fb.group({
-      name: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],
-      roomsNumber: [0, [Validators.required]]
-    });
-  }
 
 }
 
