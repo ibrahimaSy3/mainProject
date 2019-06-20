@@ -3,15 +3,17 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: 'hostels-rooms',
-    loadChildren:'./hostels-rooms/hostels-rooms.module#CreateRoomModule'
+    path: 'create-hostel',
+    loadChildren:'./create-hostel/create-hostel.module#CreateHostelModule'
   },
 
   {
-    path: 'hostels-rooms',
-    loadChildren:'./hostels-rooms/hostels-rooms.module#ListRoomsModule'
+    path: 'list-hostel',
+    loadChildren: './list-hostel/list-hostel.module#ListHostelModule'
   },
 ];
+
+
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

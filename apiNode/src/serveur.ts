@@ -21,6 +21,7 @@ app.use(cors());
 
 
 const ref = db.collection('hostels');
+const refRooms = db.collection('rooms');
 
 app.get('/', async (req, res) => {
     const newHostel = await ref.get();
@@ -34,14 +35,31 @@ app.get('/', async (req, res) => {
 
 });
 
-
+// Hostels Post
 app.post('/post',async (req, res) => {
 
     const hostels = req.body;
     const newHostel = await ref.add(hostels);
 
-    res.send('ok').status(201);
+    res.send(newHostel).status(201);
 });
+
+
+// Rooms Post
+app.post('/roomPost',async (req, res) => {
+
+    const rooms = req.body;
+    const roomsgirl = await refRooms.add(rooms);
+
+    res.send('ok room').status(201);
+});
+
+
+
+
+
+
+
 
 app.delete('/delete/:id',async (req, res) => {
     const deleted= req.body;

@@ -1,12 +1,9 @@
 <form [formGroup]="hostelForm" (ngSubmit)="postHostel()">
   <label>name
-    <input type="text" required formControlName="name" name="name">
+    <input type="text" required formControlName="name">
   </label>
   <label> nombre de chambres
     <input type="number" required formControlName="roomsNumber">
   </label>
-  <button type="submit" routerLink="create-room">envoyer</button>
+  <button type="submit">envoyer</button>
 </form>
-
-
-

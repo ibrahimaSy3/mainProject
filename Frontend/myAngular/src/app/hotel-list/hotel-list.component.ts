@@ -44,11 +44,6 @@ export class HotelListComponent implements OnInit {
       .subscribe();
   }
 
-  putHostel(){
-
-  }
-
-
 
 
 

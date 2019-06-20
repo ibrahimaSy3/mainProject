@@ -1,9 +1,10 @@
-<ul>
-  <li *ngFor="let hostel of users$ | async">{{ hostel | json }}</li>
- <button type="button" (click)="getHostel()">get hostel</button>
-</ul>
 
 
 
-<button type="button" routerLink="list-hostels">GET hostels</button>
-<button type="button" routerLink="create-hostels">POST hostels</button>
+<section>
+
+  <button type="button" routerLink="list-hostel">list hostels</button>
+
+  <button type="button" routerLink="create-hostel">POST hostels</button>
+
+</section>

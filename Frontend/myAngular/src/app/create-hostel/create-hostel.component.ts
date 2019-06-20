@@ -1,15 +1,14 @@
 import { Component, OnInit } from '@angular/core';
-import {tap} from "rxjs/operators";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 import {HttpClient} from "@angular/common/http";
+import {tap} from "rxjs/operators";
 
 @Component({
-  selector: 'app-create-room',
-  templateUrl: './create-room.component.html',
-  styleUrls: ['./create-room.component.scss']
+  selector: 'app-create-hostel',
+  templateUrl: './create-hostel.component.html',
+  styleUrls: ['./create-hostel.component.scss']
 })
-export class CreateRoomComponent implements OnInit {
-
+export class CreateHostelComponent implements OnInit {
 
   hostelForm: FormGroup;
 
@@ -25,9 +24,7 @@ export class CreateRoomComponent implements OnInit {
 
   postHostel() {
     this.http.post('http://localhost:4000/post', this.hostelForm.value)
-      .pipe(
-        tap(x => console.log(x)),
-      )
+      .pipe()
       .subscribe();
   }
 
