@@ -19,7 +19,7 @@ export class ListHostelComponent implements OnInit {
     ) { }
 
   ngOnInit() {
-    this.getHostel();
+
   }
 
   getHostel() {
