@@ -15,7 +15,7 @@ export class ListHostelComponent implements OnInit {
 
 
   constructor(
-    private http: HttpClient
+    private httpClient: HttpClient
     ) { }
 
   ngOnInit() {
@@ -23,7 +23,7 @@ export class ListHostelComponent implements OnInit {
   }
 
   getHostel() {
-    this.users$ = this.http.get<Hostels[]>('http://localhost:4000');
+    this.users$ = this.httpClient.get<Hostels[]>('http://localhost:4000');
 
     this.users$
       .pipe(
@@ -31,5 +31,10 @@ export class ListHostelComponent implements OnInit {
       .subscribe();
   }
 
+  removeHostel(users: Hostels) {
+    return this.httpClient.delete<Hostels[]>('http://localhost:4000/delete/' + users.uid)
+      .pipe()
+      .subscribe();
+}
 
 }

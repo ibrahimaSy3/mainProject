@@ -1,5 +1,6 @@
 <ul>
-  <li *ngFor="let hostel of users$ | async">{{ hostel | json }}</li>
+  <li *ngFor="let hostel of users">{{ hostel | json }}
+  <button type="button" (click)="removeHostel(hostel)">DELETE</button>
+  <button type="button">UPDATE</button></li>
 </ul>
 <button type="button" (click)="getHostel()">get hostel</button>
-<p>tugfvyihghui</p>
