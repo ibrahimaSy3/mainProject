@@ -6,12 +6,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HotelListComponent } from './hotel-list/hotel-list.component';
 import {ReactiveFormsModule} from "@angular/forms";
+import { CreateRoomComponent } from './create-room/create-room.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HotelListComponent
+    HotelListComponent,
+    CreateRoomComponent
   ],
   imports: [
     BrowserModule,
