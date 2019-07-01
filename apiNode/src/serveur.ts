@@ -7,7 +7,7 @@ const app = express();
 const cors = require('cors');
 
 
-const serviceAccount = require("C:\\Users\\WR1\\WebstormProjects\\mainProject\\apiNode\\src\\cle.json");
+const serviceAccount = require("/Users/ibrahimasy/WebstormProjects/mainProject/apiNode/src/cle.json");
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),

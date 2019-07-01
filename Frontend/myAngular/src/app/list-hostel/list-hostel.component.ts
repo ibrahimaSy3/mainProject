@@ -12,6 +12,7 @@ import {Observable} from "rxjs";
 export class ListHostelComponent implements OnInit {
   users$: Observable<Hostels[]>;
   users: Hostels[];
+  hostel: object;
 
 
   constructor(
@@ -35,6 +36,12 @@ export class ListHostelComponent implements OnInit {
     return this.httpClient.delete<Hostels[]>('http://localhost:4000/delete/' + users.uid)
       .pipe()
       .subscribe();
-}
+  }
+
+  updateHostel(users: Hostels){
+    this.httpClient.put<Hostels[]>('http://localhost:4000/put/' + users.uid, {name: "brams", roomsNumber: 3})
+      .pipe()
+      .subscribe();
+  }
 
 }

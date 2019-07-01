@@ -10,7 +10,7 @@ const routes: Routes = [
   {
     path: 'list-hostel',
     loadChildren: './list-hostel/list-hostel.module#ListHostelModule'
-  },
+  }
 ];
 
 
