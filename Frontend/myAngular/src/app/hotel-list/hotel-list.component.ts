@@ -5,7 +5,6 @@ import {tap} from "rxjs/operators";
 import {Observable} from "rxjs";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 
-
 @Component({
   selector: 'app-hotel-list',
   templateUrl: './hotel-list.component.html',
@@ -21,6 +20,7 @@ export class HotelListComponent implements OnInit {
   constructor(
     private http: HttpClient,
     private fb: FormBuilder,
+
   ){}
 
   ngOnInit() {
@@ -32,10 +32,12 @@ export class HotelListComponent implements OnInit {
         tap(x => console.log(x)),
       )
       .subscribe();
-  }
+}
 
 
   getHostel() {
+
+
     this.users$ = this.http.get<Hostels[]>('http://localhost:4000');
 
     this.users$

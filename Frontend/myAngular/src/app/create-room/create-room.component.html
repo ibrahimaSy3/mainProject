@@ -1,3 +1,9 @@
-<p>
-  create-room works!
-</p>
+<form [formGroup]="roomForm" (ngSubmit)="postRoom()">
+  <label>name
+    <input type="text" required formControlName="roomName">
+  </label>
+  <label> size
+    <input type="number" required formControlName="size">
+  </label>
+  <button type="submit">envoyer</button>
+</form>

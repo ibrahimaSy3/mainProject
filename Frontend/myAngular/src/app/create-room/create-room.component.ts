@@ -1,8 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
-import {Rooms} from "../model/model";
+import {Hostels, Rooms} from "../model/model";
 import {Observable} from "rxjs";
+import {tap} from "rxjs/operators";
 
 @Component({
   selector: 'app-create-room',
@@ -30,11 +31,19 @@ export class CreateRoomComponent implements OnInit {
       .subscribe();
   }
 
+  getRoom() {
+    this.users$ = this.http.get<Rooms[]>('http://localhost:4000');
 
+    this.users$
+      .pipe(
+        tap((users: Rooms[]) => this.users = users))
+      .subscribe();
+
+  }
   initForm() {
     this.roomForm = this.fb.group({
-      name: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],
-      roomsNumber: [0, [Validators.required]]
+      roomName: ['', [Validators.required, Validators.minLength(5), Validators.maxLength(20)]],
+      size: [0, [Validators.required]]
     });
   }
 }

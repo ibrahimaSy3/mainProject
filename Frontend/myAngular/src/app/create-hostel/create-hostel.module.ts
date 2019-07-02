@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import {CreateHostelsRoutingModule} from "./create-hostels.routing.module";
 import {CreateHostelComponent} from "./create-hostel.component";
 import {ReactiveFormsModule} from "@angular/forms";
+import {AngularFirestoreModule} from "@angular/fire/firestore";
 
 @NgModule({
   declarations: [
@@ -11,7 +12,8 @@ import {ReactiveFormsModule} from "@angular/forms";
   imports: [
     CommonModule,
     CreateHostelsRoutingModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    AngularFirestoreModule,
   ]
 })
 export class CreateHostelModule { }

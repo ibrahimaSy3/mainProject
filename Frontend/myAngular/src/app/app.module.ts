@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { HotelListComponent } from './hotel-list/hotel-list.component';
 import {ReactiveFormsModule} from "@angular/forms";
 import { CreateRoomComponent } from './create-room/create-room.component';
+import {AngularFirestoreModule} from "@angular/fire/firestore";
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { CreateRoomComponent } from './create-room/create-room.component';
     ReactiveFormsModule,
     AppRoutingModule,
     HttpClientModule,
+    AngularFirestoreModule,
 
 
 
