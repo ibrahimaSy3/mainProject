@@ -4,12 +4,21 @@ import {CreateRoomComponent} from "./create-room.component";
 
 const routes: Routes = [
   {
-    path: '',
-    component: CreateRoomComponent
+    path: 'create-room',
+    loadChildren: './create-room/create-room.module#CreateroomModule'
+  },
+
+  {
+    path: 'create-hostel',
+    loadChildren: './create-room/create-room.module#Create-RoomModule'
+  },
+  {
+    path: 'create-room',
+    loadChildren: './create-room/create-room.module#CreateRoomModule'
   }
 ];
 @NgModule({
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule]
 })
-export class CreateHostelsRoutingModule { }
+export class CreateRoomRoutingModule { }

@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
+import {Rooms} from "../model/model";
+import {Observable} from "rxjs";
 
 @Component({
   selector: 'app-create-room',
@@ -9,15 +11,16 @@ import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 })
 export class CreateRoomComponent implements OnInit {
 
+  users: Rooms[];
+  users$: Observable<Rooms[]>;
   roomForm: FormGroup;
 
   constructor(
     private http: HttpClient,
-    private fb: FormBuilder) { }
-
+    private fb: FormBuilder,
+  ){}
   ngOnInit() {
     this.initForm();
-
 
   }
 
