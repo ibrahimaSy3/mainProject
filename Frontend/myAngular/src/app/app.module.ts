@@ -6,15 +6,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HotelListComponent } from './hotel-list/hotel-list.component';
 import {ReactiveFormsModule} from "@angular/forms";
-import { CreateRoomComponent } from './create-room/create-room.component';
 import {AngularFirestoreModule} from "@angular/fire/firestore";
-
+import {AngularFireModule} from "@angular/fire";
+import {environment} from "../environments/environment";
 
 @NgModule({
   declarations: [
     AppComponent,
     HotelListComponent,
-    CreateRoomComponent
   ],
   imports: [
     BrowserModule,
@@ -22,9 +21,7 @@ import {AngularFirestoreModule} from "@angular/fire/firestore";
     AppRoutingModule,
     HttpClientModule,
     AngularFirestoreModule,
-
-
-
+    AngularFireModule.initializeApp(environment.firebase),
   ],
   providers: [],
   bootstrap: [AppComponent]

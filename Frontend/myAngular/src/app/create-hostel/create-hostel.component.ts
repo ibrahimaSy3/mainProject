@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 import {HttpClient} from "@angular/common/http";
-import {tap} from "rxjs/operators";
+import {Hostels} from "../model/model";
+import {AngularFirestore} from "@angular/fire/firestore";
 
 @Component({
   selector: 'app-create-hostel',
@@ -15,17 +16,17 @@ export class CreateHostelComponent implements OnInit {
 
   constructor(
     private http: HttpClient,
-    private fb: FormBuilder
-  ) { }
+    private fb: FormBuilder,
+    private afs : AngularFirestore,
+  ) {
+  }
 
   ngOnInit() {
     this.initForm();
   }
 
-  postHostel() {
-    this.http.post('http://localhost:4000/post', this.hostelForm.value)
-      .pipe()
-      .subscribe();
+  postHostel(users : Hostels[]) {
+    return this.afs.collection("hostels").add(users)
   }
 
 

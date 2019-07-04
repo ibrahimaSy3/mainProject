@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {Hostels} from "../model/model";
 import {tap} from "rxjs/operators";
-import {Observable} from "rxjs";
+import {AngularFirestore} from "@angular/fire/firestore";
 
 @Component({
   selector: 'app-list-hostel',
@@ -10,13 +10,13 @@ import {Observable} from "rxjs";
   styleUrls: ['./list-hostel.component.scss']
 })
 export class ListHostelComponent implements OnInit {
-  users$: Observable<Hostels[]>;
   users: Hostels[];
   hostel: object;
 
 
   constructor(
-    private httpClient: HttpClient
+    private httpClient: HttpClient,
+    private afs : AngularFirestore,
     ) { }
 
   ngOnInit() {
@@ -24,24 +24,25 @@ export class ListHostelComponent implements OnInit {
   }
 
   getHostel() {
-    this.users$ = this.httpClient.get<Hostels[]>('http://localhost:4000');
-
-    this.users$
+   return this.afs.collection("hostels").valueChanges()
       .pipe(
         tap((users: Hostels[]) => this.users = users))
       .subscribe();
   }
 
-  removeHostel(users: Hostels) {
-    return this.httpClient.delete<Hostels[]>('http://localhost:4000/delete/' + users.uid)
-      .pipe()
-      .subscribe();
+  deleteHostel(users: Hostels) {
+    return this.afs.collection("hostels").doc(users.uid).delete()
   }
 
-  updateHostel(users: Hostels){
-    this.httpClient.put<Hostels[]>('http://localhost:4000/put/' + users.uid, {name: "brams", roomsNumber: 3})
-      .pipe()
-      .subscribe();
+  putHostel(users: Hostels){
+    return this.afs.collection("hostels").doc(users.uid).set(users)
   }
+
+  postHostel(users: Hostels) {
+  return this.afs.collection("hostels").add(users)
+  }
+
 
 }
+
+

@@ -3,7 +3,7 @@ import {Hostels} from '../model/model';
 import{HttpClient} from '@angular/common/http';
 import {tap} from "rxjs/operators";
 import {Observable} from "rxjs";
-import {FormBuilder, FormGroup, Validators} from "@angular/forms";
+import {FormGroup} from "@angular/forms";
 
 @Component({
   selector: 'app-hotel-list',
@@ -19,7 +19,6 @@ export class HotelListComponent implements OnInit {
 
   constructor(
     private http: HttpClient,
-    private fb: FormBuilder,
 
   ){}
 
