@@ -3,6 +3,7 @@ import {FormBuilder, FormGroup, Validators} from "@angular/forms";
 import {HttpClient} from "@angular/common/http";
 import {Hostels} from "../model/model";
 import {AngularFirestore} from "@angular/fire/firestore";
+import {from} from "rxjs";
 
 @Component({
   selector: 'app-create-hostel',
@@ -12,6 +13,8 @@ import {AngularFirestore} from "@angular/fire/firestore";
 export class CreateHostelComponent implements OnInit {
 
   hostelForm: FormGroup;
+  users: Hostels[];
+
 
 
   constructor(
@@ -25,8 +28,10 @@ export class CreateHostelComponent implements OnInit {
     this.initForm();
   }
 
-  postHostel(users : Hostels[]) {
-    return this.afs.collection("hostels").add(users)
+  postHostel() {
+    from(this.afs.collection<Hostels[]>("hostels").add(this.hostelForm.value))
+      .pipe()
+      .subscribe()
   }
 
 

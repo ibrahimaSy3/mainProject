@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import {Hostels} from '../model/model';
 import{HttpClient} from '@angular/common/http';
 import {tap} from "rxjs/operators";
-import {Observable} from "rxjs";
+import {from, Observable} from "rxjs";
 import {FormGroup} from "@angular/forms";
 
 @Component({
@@ -25,13 +25,7 @@ export class HotelListComponent implements OnInit {
   ngOnInit() {
   }
 
-  postHostel(){
-    this.http.post('http://localhost:4000/post',this.hostelForm.value)
-      .pipe(
-        tap(x => console.log(x)),
-      )
-      .subscribe();
-}
+
 
 
   getHostel() {
