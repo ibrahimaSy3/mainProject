@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b791cfbf-265f-4dae-9239-c188e44cfc0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -34,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="198">
               <caret line="14" column="11" selection-start-line="14" selection-end-line="15" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
@@ -55,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            <state relative-caret-position="462">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -67,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="396">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -79,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="484">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -148,7 +144,6 @@
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.component.html" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.module.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.module.ts" />
-        <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.component.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/liste-hostel.routing.module.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.html" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/app.component.html" />
@@ -163,6 +158,7 @@
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts" />
         <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts" />
+        <option value="$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.component.ts" />
       </list>
     </option>
   </component>
@@ -177,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,7 +236,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,7 +384,9 @@
       <workItem from="1562055076230" duration="23979000" />
       <workItem from="1562142541569" duration="11169000" />
       <workItem from="1562227728180" duration="17019000" />
-      <workItem from="1562315317096" duration="6827000" />
+      <workItem from="1562315317096" duration="7236000" />
+      <workItem from="1562661737059" duration="1110000" />
+      <workItem from="1562663967633" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1557740885805</created>
@@ -502,11 +500,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562062817572</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add crud hostels">
+      <created>1562344138063</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1562344138063</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304341000" />
+    <option name="totallyTimeSpent" value="305953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,7 +526,7 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5975443" visible="true" weight="0.18440464" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5975443" visible="true" weight="0.13593256" />
       <window_info id="Structure" order="1" sideWeight="0.36760125" side_tool="true" weight="0.1369863" />
       <window_info id="Favorites" order="2" sideWeight="0.36760125" side_tool="true" weight="0.1369863" />
       <window_info id="npm" order="3" sideWeight="0.40245566" side_tool="true" weight="0.18440464" />
@@ -587,7 +592,8 @@
     <MESSAGE value="add updating hostel" />
     <MESSAGE value="add crud room" />
     <MESSAGE value="add microservices room uid" />
-    <option name="LAST_COMMIT_MESSAGE" value="add microservices room uid" />
+    <MESSAGE value="add crud hostels" />
+    <option name="LAST_COMMIT_MESSAGE" value="add crud hostels" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-rooms/list-rooms.component.html" />
@@ -853,27 +859,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="11" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -884,20 +890,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/list-hostel/list-hostel.component.ts">
+    <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-hostel/create-hostel.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" selection-start-line="14" selection-end-line="15" />
+        <state relative-caret-position="462">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/hotel-list/hotel-list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="484">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -906,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Frontend/myAngular/src/app/create-room/create-room.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="396">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
